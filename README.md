@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jonas 👋</h1>
 
 <p align="center">
-R&D @ <strong>Reniver</strong> · ICT Student · OT/ICS Security · Industrial Automation · Homelab Enjoyer
+former R&D @ <strong>Reniver</strong> · ICT Student · OT/ICS Security · Industrial Automation · Homelab Enjoyer
 </p>
 
 <p align="center">

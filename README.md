@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Jonas 👋</h1>
 <p align="center">
-former R&D @ <strong>Reniver</strong> · ICT Student · OT/ICS Security · Industrial Automation · Homelab Enjoyer
+former R&D @ <strong>Reniver</strong> · Developer Coordinator @ <strong>Smartschool++</strong> · ICT Student · OT/ICS Security · Industrial Automation · Homelab Enjoyer
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jonasvo20-ux&color=brightgreen&style=flat-square" alt="profile views" />
@@ -13,9 +13,16 @@ former R&D @ <strong>Reniver</strong> · ICT Student · OT/ICS Security · Indus
   <img src="https://img.shields.io/badge/Zorin%20OS-Pro-blue?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/SCL%20%2F%20Ladder-PLC%20Programming-orange?style=for-the-badge&logo=siemens&logoColor=white" />
   <img src="https://img.shields.io/badge/TIA%20Portal-Survivor-red?style=for-the-badge&logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPC%20UA-Industrial%20Comms-005C97?style=for-the-badge&logo=siemens&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-Student-9cf?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/OT%2FICS-Security-critical?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
@@ -23,6 +30,16 @@ former R&D @ <strong>Reniver</strong> · ICT Student · OT/ICS Security · Indus
 ---
 
 ## 🚀 Featured Projects
+
+### 🎨 [Smartschool++ (SMPP)](https://github.com/sprksoft/smpp) — *Developer Coordinator*
+> Browser extension that supercharges **Smartschool**, the learning platform used by Belgian schools — themes, widgets, games and everything in between.
+- **~20,000 users** on the Chrome Web Store, also available for Firefox
+- Manifest V3 · TypeScript · privacy-first (storage permission only, no data collection)
+- 30+ themes, custom backgrounds, shareable theme links
+- Draggable widget dashboard: planner, next course, tasks & grades, notes, countdowns, weather, virtual plant
+- Quick menu (`:`) for lightning-fast navigation
+- My contributions: coordinating the dev team, the **NMBS/SNCB train widget** (iRail API), the **grades widget**, the **next-course widget** and assorted **CSS fixes**
+
 ### 🔍 [PLC Network Scanner](https://github.com/jonasvo20-ux/plc-network-scanner)
 > Industrial network scanner for detecting PLCs and SCADA devices on a network.
 - Scans ports **102** (S7), **502** (Modbus), **44818** (EtherNet/IP)
@@ -56,6 +73,9 @@ former R&D @ <strong>Reniver</strong> · ICT Student · OT/ICS Security · Indus
   </a>
   <a href="https://github.com/jonasvo20-ux">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/YOUR_USER_ID">
+    <img src="https://img.shields.io/badge/Discord-qu1etwire-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 <p align="center"><i>"My code may run shit, BUT IT RUNS!"</i></p>

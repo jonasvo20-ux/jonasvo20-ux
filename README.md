@@ -2,11 +2,7 @@
 <p align="center">
 former R&D @ <strong>Reniver</strong> · Developer Coordinator @ <strong>Smartschool++</strong> · ICT Student · OT/ICS Security · Industrial Automation · Homelab Enjoyer
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonasvo20-ux&color=brightgreen&style=flat-square" alt="profile views" />
-</p>
 
----
 
 ## 🛠️ Tech Stack
 <p align="center">
